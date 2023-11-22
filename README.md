@@ -31,26 +31,19 @@ Welcome to the future of file management with our cutting-edge Laravel File Mana
 ## Get Started:
 
 1. **Clone the Repository:**
-git clone https://github.com/your-username/laravel-file-manager.git
+```git clone https://github.com/your-username/laravel-file-manager.git```
 
-markdown
-Copy code
 
 2. **Install Dependencies:**
-composer install
-npm install
-
-markdown
-Copy code
+```composer install```
+```npm install```
 
 3. **Configure AWS S3 and Mailpit:**
 Set up your AWS S3 credentials and Mailpit API for seamless cloud storage and communication.
 
 4. **Run the Application:**
-php artisan serve
+```php artisan serve```
 
-arduino
-Copy code
 
 5. **Open Your Browser:**
 Visit `http://localhost:8000` to experience the future of file management!
