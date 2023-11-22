@@ -31,7 +31,7 @@ Welcome to the future of file management with our cutting-edge Laravel File Mana
 ## Get Started:
 
 1. **Clone the Repository:**
-```git clone https://github.com/your-username/laravel-file-manager.git```
+```git clone https://github.com/emmieIO/laravel-file-manager.git```
 
 
 2. **Install Dependencies:**
